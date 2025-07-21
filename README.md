@@ -7,6 +7,12 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF.svg)](https://vitejs.dev/)
 
+## 📱 Preview
+
+![CryptoMind App Screenshot](assets/app_screenshot.png)
+
+*CryptoMind in action: tracking checking behavior while displaying real-time crypto prices*
+
 ## 🎯 About
 
 Many people check crypto prices too often, leading to addiction. This app tracks how many times you check crypto prices today, providing insights, statistics, and tips to help you reduce addiction by integrating awareness into your checking frequency and helping you manage your crypto habits.
