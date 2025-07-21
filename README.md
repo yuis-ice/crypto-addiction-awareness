@@ -2,6 +2,8 @@
 
 > Crypto Prices, but with how many times you checked them today
 
+🚀 **[Live Demo](https://crypto-addiction-awareness.pages.dev/)**
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![React](https://img.shields.io/badge/React-18.3.1-blue.svg)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-blue.svg)](https://www.typescriptlang.org/)
